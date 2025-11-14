@@ -1,0 +1,5 @@
+{
+  "name": "CHỈNH SỬA - ĐỔI MÀU ẢNH",
+  "description": "An advanced image editing application that uses AI to inpaint and modify user-uploaded images. Users can mask areas of an image, provide a text prompt, and let the AI generate a new version. It also includes standard image adjustment tools for fine-tuning.",
+  "requestFramePermissions": []
+}
